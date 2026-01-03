@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Convolutional Neural Networks (CNNs) with a strong focus on deep learning applications.<br>Experienced in integrating Machine Learning models into frontend applications, enabling real-time and user-friendly AI solutions.<br>Actively create and upload YouTube videos explaining step-by-step ML model integration, helping learners understand practical implementation.<br>Expert in Python, with hands-on experience in libraries such as TensorFlow, PyTorch, NumPy, Pandas, and OpenCV.<br> Actively involved in research on deep learning models, with 6 research papers published in reputed journels.<br>
+- Currently working on Convolutional Neural Networks (CNNs) with a strong focus on deep learning applications.<br>Experienced in integrating Machine Learning models into frontend applications, enabling real-time and user-friendly AI solutions.<br>- Actively create and upload YouTube videos explaining step-by-step ML model integration, helping learners understand practical implementation.<br>- Expert in Python, with hands-on experience in libraries such as TensorFlow, PyTorch, NumPy, Pandas, and OpenCV.<br>- Actively involved in research on deep learning models, with 6 research papers published in reputed journels.<br>
  
 
 ## 🌐 Socials:
