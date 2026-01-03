@@ -1,6 +1,11 @@
-# 💫 About Me:
-- Currently working on Convolutional Neural Networks (CNNs) with a strong focus on deep learning applications.<br>Experienced in integrating Machine Learning models into frontend applications, enabling real-time and user-friendly AI solutions.<br>- Actively create and upload YouTube videos explaining step-by-step ML model integration, helping learners understand practical implementation.<br>- Expert in Python, with hands-on experience in libraries such as TensorFlow, PyTorch, NumPy, Pandas, and OpenCV.<br>- Actively involved in research on deep learning models, with 6 research papers published in reputed journels.<br>
- 
+## 💫 About Me
+
+• Currently working on **Convolutional Neural Networks (CNNs)** with a strong focus on deep learning applications  
+• Experienced in **integrating Machine Learning models into frontend applications** for real-time AI solutions  
+• Actively create and upload **YouTube videos** explaining step-by-step **ML model integration**  
+• **Expert in Python**, with hands-on experience in **TensorFlow, PyTorch, NumPy, Pandas, and OpenCV**  
+• Actively involved in **research on deep learning models**, with **6 research papers published in reputed journals**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mudassir-cs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Creative_mudassir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mudassiriftikhar07@gmail.com) 
